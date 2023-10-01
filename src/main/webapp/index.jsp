@@ -15,6 +15,11 @@
             color: #ff5733;
             font-size: 36px;
             margin-top: 20px;
+            transition: color 0.3s ease;
+        }
+
+        h1:hover {
+            color: #ff9900;
         }
         
         a {
@@ -23,6 +28,11 @@
             color: #007bff;
             font-size: 20px;
             margin-top: 20px;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: #0056b3;
         }
         
         h2 {
