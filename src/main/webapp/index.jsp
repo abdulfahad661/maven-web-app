@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>EC2Soft - Software Training Institute</title>
+    <title>EC2Soft - Software Training Institute v1</title>
     <style>
         body {
             font-family: Arial, sans-serif;
